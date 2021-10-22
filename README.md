@@ -1,4 +1,4 @@
 # Hey 👨🏽‍💻
 
-I'm a Front-End Developer, who works with React and React Native!
+I'm a Front-End Developer, and Software Engineering student who works with React and React Native!
 * My email: rodriguezjustoignacio@gmail.com
