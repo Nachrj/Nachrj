@@ -1,4 +1,3 @@
 # Hey 👨🏽‍💻
-
-I'm a Front-End Developer, and Software Engineering student who works with React and React Native!
-* My email: rodriguezjustoignacio@gmail.com
+I'm Software Engineering student @ UBA, love to code and study.
+* email: rodriguezjustoignacio@gmail.com
