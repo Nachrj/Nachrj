@@ -1,3 +1,3 @@
 # Hey 👨🏽‍💻
-I'm Software Engineering student @ UBA, love to code and study.
+I'm Software Engineering student @ UBA, learning.
 * email: rodriguezjustoignacio@gmail.com
